@@ -1,8 +1,8 @@
 matplotlib==3.10.0
 numpy==2.2.2
 numpy-dynamic-array==0.0.1
-openseespy==3.7.0.6
-openseespywin==3.7.0.6
+openseespy==3.7.0.4
+openseespywin==3.7.0.4
 opstool==1.0.11
 opsvis==1.1.13
 pandas==2.2.3
