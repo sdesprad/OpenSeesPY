@@ -8,4 +8,4 @@ pandas
 scipy
 sidecar
 sympy
-itertools
+more-itertools
